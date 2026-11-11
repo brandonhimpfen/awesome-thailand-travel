@@ -4,6 +4,8 @@
 
 > A curated list of resources for traveling in Thailand, covering official tourism boards, digital arrival passes, rail networks, regional guides, and marine conservation sites.
 
+Thailand is a vibrant Southeast Asian destination renowned for its ornate Buddhist temples, bustling street markets, tropical island archipelagos, and northern mountain highlands. This list is intended for cultural travelers, island-hopping tourists, digital nomads, and culinary explorers.
+
 ## Contents
 
 - [Official & Planning](#official--planning)
