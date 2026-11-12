@@ -62,6 +62,7 @@ Navigating national railway networks, high-speed rail lines, domestic aviation, 
 
 ### Samui & Gulf Islands
 
+- [Samui Love](https://samuilove.com) - Multilingual Koh Samui guide to beaches, restaurants, tours, events and local businesses, with a map and saved favourites.
 - [Tourism Thailand - Gulf Islands Guide](https://www.tourismthailand.org/) - Official regional hub for exploring Koh Samui beach resorts, Koh Phangan full moon heritage, and Koh Tao scuba diving sites.
 
 ## Digital Nomad & Remote Work
